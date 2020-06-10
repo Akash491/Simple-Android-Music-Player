@@ -23,4 +23,4 @@ mediaPlayer.reset();
 
 # Output Screen
 
-![Output](Output.png)
+![Output](Output.PNG)
